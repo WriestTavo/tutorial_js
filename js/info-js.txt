@@ -1,0 +1,21 @@
+Definicion:
+JavaScript es un lenguaje de programación que te permites realizar actividades complejas en una pagina web 
+cada vez mas una página web hace mas  cosas que solo mostrar información estática 
+como mostrar actualizaciones de contenido en el momento, interactuarcon mapas, animaciones  graficas 2D/3D etc. 
+puedes estar seguro que JavaScript esta involucrado. Es la tercera capa del pastel de los estandares en las tecnologias para la web, 
+dos de las cuales (HTML y CSS) Hablaremos mas adelante  con mas detalle en otra parte de nuestra Área de Aprendizaje.
+
+¿Qué es lo que realmente podemos hacer?
+El núcleo de JavaScript consiste en características comunes de programación que te permite hacer cosas como:
+
+Almacenar valores útiles dentro de variables. En el ejercicio anterior por ejemplo, preguntamos por un nuevo nombre ha introducir para luego almacenarlo en una variable llamada name.
+Las operaciones escritas en formato de texto (Conocidas como "Strings" en lenguaje de programación). En el ejemplo anterior tomamos el conjunto "Player 1:" y lo adjuntamos a la variable name para terminar de crear el código, ejemplo: "Player 1: Chris". 
+Para hacer funcionar el código en respuesta a algunos eventos que están ocurriendo en la página web. Usamos un evento en nuestro ejemplo anterior llamado clic para detectar cuando el botón el cliqueado para luego hacer correr el código que actualice la etiqueta de texto.
+¡Y muchas más cosas!
+
+
+Mas información: https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/Qu%C3%A9_es_JavaScript
+
+
+
+Gustavo A. Soto ( WriestTavo )
